@@ -19,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.tonbu.WJLP</string>
 				<key>bundle-version</key>
-				<string>1.4</string>
+				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>武进看点</string>
+				<string>统一运维</string>
 			</dict>
 		</dict>
 	</array>
